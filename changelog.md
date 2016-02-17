@@ -2,4 +2,5 @@
 
 ## Added
 - Set Bolding Hook to true
-- Added a changelog
+- Add a changelog
+- Add caboose into _template and MY_Controller
